@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FirstMR/FirstMR.iml" filepath="$PROJECT_DIR$/../FirstMR/FirstMR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ForHBase/ForHBase.iml" filepath="$PROJECT_DIR$/../ForHBase/ForHBase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../entity/entity.iml" filepath="$PROJECT_DIR$/../entity/entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/firstTest.iml" filepath="$PROJECT_DIR$/firstTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../forMR/forMR.iml" filepath="$PROJECT_DIR$/../forMR/forMR.iml" />
+    </modules>
+  </component>
+</project>

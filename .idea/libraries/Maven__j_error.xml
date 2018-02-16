@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: j:error">
+    <CLASSES>
+      <root url="jar://E:/1703/Hadoop/new-maven/j/error/error-.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/j/error/error--javadoc.jar!/" />
+      <root url="jar://E:/1703/Hadoop/new-maven/j/error/error--javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/j/error/error--sources.jar!/" />
+      <root url="jar://E:/1703/Hadoop/new-maven/j/error/error--sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
